@@ -7,5 +7,8 @@ services:
       - "8888:8888"
     volumes:
       - ./src:/home/jovyan/src
+      - ./data:/home/jovyan/data
     working_dir: /home/jovyan
+    env_file:
+      - .env
 
