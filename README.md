@@ -34,7 +34,7 @@ Acesse a url e encontrará o ambiente jupyter
 
 ## Dataset
 
-O dataset escolhido foi de informações culinárias, sendo acessível no kaggle 
+O dataset escolhido foi de informações de culinária indiana, sendo acessível no kaggle 
 [Através desse link](https://www.kaggle.com/datasets/samxengineer/indian-food-cuisine-dataset/data)
 
 ### Modelo ER
