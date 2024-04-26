@@ -15,19 +15,25 @@ Depois do repositorio clonado, abra um terminal dentro do projeto e executo o co
 ## Dentro do projeto
 
 - Incia sessão, declara configs e bibliotecas e cria dataframe pelo CSV
+  
   <img src="github/IMG_1.jpg">
 
 - Criando as tabelas
+  
   <img src="github/IMG_2.jpg">
 
 - Inserindo dados na tabela, (utilizando sem ser a sintaxe SQL-like para não precisar criar um tabela temporaria)
+  
   <img src="github/IMG_3.jpg">
 
 - Select em uma tabela
+  
   <img src="github/IMG_4.jpg">
 
 - Delete em uma tabela
+  
   <img src="github/IMG_5.jpg">
 
 - Update em uma tabela
-  <img src=".github/IMG_6.jpg">
+
+  <img src="github/IMG_6.jpg">
