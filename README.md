@@ -32,6 +32,11 @@ Recebera como saída uma url como essa http://127.0.0.1:8888/lab?token=5e6616dcf
 
 Acesse a url e encontrará o ambiente jupyter
 
+## Modelo ER
+
+<img src="github/modelo_er.jpg">
+
+
 ## Dentro do projeto
 
 - Inicia sessão, declara configs e bibliotecas
