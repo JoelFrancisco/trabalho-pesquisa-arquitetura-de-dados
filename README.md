@@ -34,7 +34,7 @@ Acesse a url e encontrará o ambiente jupyter
 
 ## Modelo ER
 
-<img src="github/modelo_er.jpg">
+<img src="github/modelo_er.png">
 
 
 ## Dentro do projeto
