@@ -32,12 +32,17 @@ Recebera como saída uma url como essa http://127.0.0.1:8888/lab?token=5e6616dcf
 
 Acesse a url e encontrará o ambiente jupyter
 
-## Modelo ER
+## Dataset
+
+O dataset escolhido foi de informações culinárias, sendo acessível no kaggle 
+[Através desse link](https://www.kaggle.com/datasets/samxengineer/indian-food-cuisine-dataset/data)
+
+### Modelo ER
 
 <img src="github/modelo_er.png">
 
 
-## Dentro do projeto
+## Exemplos delta lake
 
 - Inicia sessão, declara configs e bibliotecas
   
