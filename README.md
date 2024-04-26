@@ -2,7 +2,7 @@
 
 ## Reproduzindo o ambiente
 
-As seguintes instruções foram feitas para Linux, não fornecemos instruções para Windows no momento
+As seguintes instruções foram feitas para Linux como kernel e Bash como shell, não fornecemos instruções para Windows no momento
 
 ### Requisitos
  
