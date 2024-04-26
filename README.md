@@ -41,6 +41,26 @@ O dataset escolhido foi de informações de culinária indiana, sendo acessível
 
 <img src="github/modelo_er.png">
 
+## Instalação do pacote **Delta-spark**
+
+- Para fazer a instalação do pacote **delta-spark**, será necessário abrir um terminal novo após ter o docker instalado, nesse terminal, faça os seguintes passos:
+
+```
+docker ps
+```
+
+- Assim você vai obter todos seus containers, agora pegue o **ID** do container desejado e acesse a imagem
+
+```
+docker exec -it [ID] /bin/bash
+```
+
+- Em seguida, basta realizar o camando de instalação
+
+```
+pip install delta-spark
+```
+
 
 ## Exemplos delta lake
 
